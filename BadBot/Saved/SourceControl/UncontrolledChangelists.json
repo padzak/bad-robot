@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Maps/BotLevel.umap",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Assets/Drone/SM_Drone.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Blueprints/BP_Bot.uasset",
 				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Maps/BotLevel.umap",
 				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/M_Drone.uasset",
