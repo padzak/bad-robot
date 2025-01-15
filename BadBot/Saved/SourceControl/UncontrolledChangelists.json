@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Maps/BotLevel.umap",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/M_Drone.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/M_DroneGlass.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/SM_Drone.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/T_Drone_BC.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/T_Drone_EM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/T_Drone_NRM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/T_Drone_ORM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/M_Drone.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/M_DroneGlass.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/T_Drone_BC.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/T_Drone_EM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/T_Drone_NRM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/Materials/T_Drone_ORM.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Assets/Drone/SM_Drone_Two_Mats.uasset",
+				"D:/poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/BadBot/Content/Blueprints/BP_Bot.uasset"
+			]
+		}
+	]
+}
