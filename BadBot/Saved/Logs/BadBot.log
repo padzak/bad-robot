@@ -4829,3 +4829,272 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.16-10.24.28:202][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2025.01.16-10.24.28:216][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2025.01.16-10.24.28:235][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.16-10.25.22:146][364]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.16-10.25.22:151][364]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.16-10.25.22:157][365]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.16-10.25.23:451][518]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2025.01.16-10.25.23:451][518]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.16-10.25.32:868][285]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.16-10.25.32:877][285]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.16-10.25.32:883][285]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.16-10.25.32:899][287]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.16-10.25.40:054][144]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BadBotGameMode
+[2025.01.16-10.25.40:060][144]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.16-10.25.41:722][340]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BP_BadBotGameMode.BP_BadBotGameMode
+[2025.01.16-10.25.41:722][340]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.01.16-10.26.12:806][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.16-10.26.15:975][986]LogSlate: Window 'Save Content' being destroyed
+[2025.01.16-10.26.15:981][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-10.26.16:099][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BadBotGameMode] ([2] browsable assets)...
+[2025.01.16-10.26.16:099][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BadBotGameMode]
+[2025.01.16-10.26.16:103][986]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/BP_BadBotGameMode
+[2025.01.16-10.26.16:103][986]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_BadBotGameModeC8751971443E3025304135BA0EC76743.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Blueprints/Game/BP_BadBotGameMode.uasset'
+[2025.01.16-10.26.16:235][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.420 ms (total: 749.655 ms)
+[2025.01.16-10.26.16:235][986]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.16-10.26.16:238][986]LogChaosDD: Creating Chaos Debug Draw Scene for world TestingLevel
+[2025.01.16-10.26.16:240][986]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestingLevel.TestingLevel
+[2025.01.16-10.26.16:241][986]Cmd: MAP LOAD FILE="../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Maps/TestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.16-10.26.16:252][986]LogWorld: UWorld::CleanupWorld for BotLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.16:260][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.16:269][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.16-10.26.16:276][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.16-10.26.16:279][986]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.16:279][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.16:290][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.01.16-10.26.16:306][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.16-10.26.16:308][986]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestingLevel'.
+[2025.01.16-10.26.16:308][986]LogChaosDD: Creating Chaos Debug Draw Scene for world TestingLevel
+[2025.01.16-10.26.16:347][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.16-10.26.16:360][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.16-10.26.16:364][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.16-10.26.16:364][986]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
+[2025.01.16-10.26.16:499][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-10.26.16:499][986]LogContentValidation: Enabled validators:
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-10.26.16:499][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-10.26.16:499][986]AssetCheck: /Game/Blueprints/Game/BP_BadBotGameMode Validating asset
+[2025.01.16-10.26.21:103][456]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.21:103][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.21:140][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.16-10.26.21:520][497]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.26.21:520][497]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.26.21:520][497]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.21:520][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.21:551][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.16-10.26.22:003][541]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.22:003][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.22:030][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.16-10.26.22:493][588]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.22:493][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.22:519][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.16-10.26.22:943][634]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.16-10.26.22:943][634]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.22:943][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.22:977][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.16-10.26.23:283][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.16-10.26.23:283][665]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.23:283][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.23:321][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.16-10.26.23:543][687]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.16-10.26.23:543][687]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.26.23:543][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.26.23:585][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.16-10.26.37:683][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-10.26.37:771][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.16-10.26.37:779][342]LogSavePackage: Moving output files for package: /Game/Maps/TestingLevel
+[2025.01.16-10.26.37:779][342]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/TestingLevelFE796504410E82A94532D28282CE13AE.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Maps/TestingLevel.umap'
+[2025.01.16-10.26.37:784][342]LogFileHelpers: Saving map 'TestingLevel' took 0.042
+[2025.01.16-10.26.37:789][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.552 ms (total: 856.208 ms)
+[2025.01.16-10.26.37:856][342]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-10.26.37:856][342]LogContentValidation: Enabled validators:
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-10.26.37:856][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-10.26.37:856][342]AssetCheck: /Game/Maps/TestingLevel Validating asset
+[2025.01.16-10.26.41:781][739]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.16-10.27.14:407][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2130.980469
+[2025.01.16-10.27.15:408][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-10.27.15:408][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2131.686523, Update Interval: 352.269043
+[2025.01.16-10.28.12:049][572]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.16-10.33.53:391][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2529.964600
+[2025.01.16-10.33.54:390][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-10.33.54:390][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2530.632080, Update Interval: 322.861420
+[2025.01.16-10.36.38:216][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.16-10.36.38:226][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestingLevel_Auto3
+[2025.01.16-10.36.38:226][395]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/TestingLevel_Auto38D6E1C23472C0F4ACF75DEA7551A3094.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/Autosaves/Game/Maps/TestingLevel_Auto3.umap'
+[2025.01.16-10.36.38:228][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestingLevel' took 0.026
+[2025.01.16-10.36.38:228][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.01.16-10.37.29:890][499]LogSlate: Took 0.001180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.01.16-10.37.56:971][560]LogEditorTransaction: Undo Add Node
+[2025.01.16-10.38.12:045][ 78]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Add_IntInt' [Element not found.]
+[2025.01.16-10.39.32:455][197]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SmallSphere/BP_SmallSpehere.BP_SmallSpehere
+[2025.01.16-10.39.32:455][197]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.01.16-10.40.16:781][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2913.354736
+[2025.01.16-10.40.17:781][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-10.40.17:781][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2914.021973, Update Interval: 310.691864
+[2025.01.16-10.46.13:194][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3269.768799
+[2025.01.16-10.46.14:195][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-10.46.14:195][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3270.435303, Update Interval: 353.248688
+[2025.01.16-10.46.38:744][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.16-10.46.38:752][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestingLevel_Auto4
+[2025.01.16-10.46.38:752][823]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/TestingLevel_Auto4A069A668489B1260C5AAF4AE2824E5DB.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/Autosaves/Game/Maps/TestingLevel_Auto4.umap'
+[2025.01.16-10.46.38:753][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestingLevel' took 0.046
+[2025.01.16-10.46.38:753][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.01.16-10.46.38:753][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BadBotGameMode] ([2] browsable assets)...
+[2025.01.16-10.46.38:753][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BadBotGameMode]
+[2025.01.16-10.46.38:755][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Game/BP_BadBotGameMode_Auto4
+[2025.01.16-10.46.38:755][823]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_BadBotGameMode_Auto48ED73E194536488CE8489C930B80F5BE.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/Autosaves/Game/Blueprints/Game/BP_BadBotGameMode_Auto4.uasset'
+[2025.01.16-10.46.38:757][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/SmallSphere/BP_SmallSpehere] ([2] browsable assets)...
+[2025.01.16-10.46.38:876][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/SmallSphere/BP_SmallSpehere.BP_SmallSpehere]
+[2025.01.16-10.46.38:876][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SmallSphere/BP_SmallSpehere]
+[2025.01.16-10.46.38:886][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SmallSphere/BP_SmallSpehere_Auto4
+[2025.01.16-10.46.38:886][823]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_SmallSpehere_Auto4F172042F44E34730FC10BC83C168CC7F.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/Autosaves/Game/Blueprints/SmallSphere/BP_SmallSpehere_Auto4.uasset'
+[2025.01.16-10.46.38:886][823]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.01.16-10.53.05:969][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3682.539551
+[2025.01.16-10.53.06:210][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-10.53.06:210][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3682.772949, Update Interval: 301.435577
+[2025.01.16-10.53.34:470][689]LogDerivedDataCache: C:/Users/ext.mpajak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.025 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 553 files in 926 folders with total size 8 MiB.
+[2025.01.16-10.54.32:259][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.16-10.54.32:263][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-10.54.32:413][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.01.16-10.54.32:418][ 94]LogSavePackage: Moving output files for package: /Game/Maps/TestingLevel
+[2025.01.16-10.54.32:418][ 94]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/TestingLevel5C122FCF4E87CE354A581DB6B0420C45.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Maps/TestingLevel.umap'
+[2025.01.16-10.54.32:424][ 94]LogFileHelpers: Saving map 'TestingLevel' took 0.035
+[2025.01.16-10.54.32:424][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BadBotGameMode] ([2] browsable assets)...
+[2025.01.16-10.54.32:424][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BadBotGameMode]
+[2025.01.16-10.54.32:426][ 94]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/BP_BadBotGameMode
+[2025.01.16-10.54.32:427][ 94]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_BadBotGameModeDBF6241642E0BB51BB3059A6F0105EAA.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Blueprints/Game/BP_BadBotGameMode.uasset'
+[2025.01.16-10.54.32:427][ 94]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/SmallSphere/BP_SmallSpehere] ([2] browsable assets)...
+[2025.01.16-10.54.32:507][ 94]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/SmallSphere/BP_SmallSpehere.BP_SmallSpehere]
+[2025.01.16-10.54.32:507][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SmallSphere/BP_SmallSpehere]
+[2025.01.16-10.54.32:516][ 94]LogSavePackage: Moving output files for package: /Game/Blueprints/SmallSphere/BP_SmallSpehere
+[2025.01.16-10.54.32:516][ 94]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_SmallSpehere6D95CA9B4553EE80FE1783AC9F3A8328.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Blueprints/SmallSphere/BP_SmallSpehere.uasset'
+[2025.01.16-10.54.32:525][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.577 ms (total: 1.11 sec)
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: Display: Starting to validate 3 assets
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: Enabled validators:
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-10.54.32:656][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-10.54.32:656][ 94]AssetCheck: /Game/Maps/TestingLevel Validating asset
+[2025.01.16-10.54.32:656][ 94]AssetCheck: /Game/Blueprints/Game/BP_BadBotGameMode Validating asset
+[2025.01.16-10.54.32:656][ 94]AssetCheck: /Game/Blueprints/SmallSphere/BP_SmallSpehere Validating asset
+[2025.01.16-10.55.06:871][842]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetStringLibrary::Concat_StrStr' [The specified module could not be found.]
+[2025.01.16-10.55.26:859][  1]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.16-10.55.26:868][  1]LogPlayLevel: [PlayLevel] Compiling BP_Bot before play...
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:874][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.26:887][  1]LogPlayLevel: [PlayLevel] Compiling BP_SmallSpehere before play...
+[2025.01.16-10.55.26:887][  1]LogPlayLevel: [PlayLevel]   Compiling BP_BadBotGameMode as a dependent...
+[2025.01.16-10.55.26:947][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.16-10.55.26:950][  1]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (3 blueprints)
+[2025.01.16-10.55.26:984][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingLevel
+[2025.01.16-10.55.26:985][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2025.01.16-10.55.26:985][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingLevel.TestingLevel to /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel (0.001191s)
+[2025.01.16-10.55.26:999][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.16-10.55.27:000][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world TestingLevel
+[2025.01.16-10.55.27:002][  1]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2025.01.16-10.55.27:002][  1]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.16-10.55.27:002][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.16-10.55.27:002][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.16-10.55.27:002][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.16-10.55.27:002][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.16-10.55.27:002][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.16-10.55.27:005][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.16-10.55.27:023][  1]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Pro Audio)
+[2025.01.16-10.55.27:023][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.16-10.55.27:023][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.16-10.55.27:023][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.16-10.55.27:024][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.16-10.55.27:024][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.16-10.55.27:026][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.16-10.55.27:026][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.16-10.55.27:026][  1]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.16-10.55.27:026][  1]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestingLevel'.
+[2025.01.16-10.55.27:026][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.16-10.55.27:028][  1]LogLoad: Game class is 'BP_BadBotGameMode_C'
+[2025.01.16-10.55.27:029][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel up for play (max tick rate 0) at 2025.01.16-11.55.27
+[2025.01.16-10.55.27:029][  1]LogWorld: Bringing up level for play took: 0.000600
+[2025.01.16-10.55.27:031][  1]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.01.16-10.55.27:032][  1]PIE: Server logged in
+[2025.01.16-10.55.27:033][  1]PIE: Play in editor total start time 0.169 seconds.
+[2025.01.16-10.55.27:035][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.27:035][  1]LogStaticMesh: Warning: Invalid material [M_DroneGlass] used on Nanite static mesh [SM_Drone]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.01.16-10.55.30:387][394]LogBlueprintUserMessages: [BP_BadBotGameMode_C_0] Player Score: 1
+[2025.01.16-10.55.33:396][755]LogBlueprintUserMessages: [BP_BadBotGameMode_C_0] Player Score: 2
+[2025.01.16-10.55.36:188][ 90]LogBlueprintUserMessages: [BP_BadBotGameMode_C_0] Player Score: 3
+[2025.01.16-10.55.37:244][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-10.55.37:244][214]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingLevel
+[2025.01.16-10.55.37:244][214]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-10.55.37:244][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.55.37:248][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-10.55.37:250][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-10.55.37:278][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-10.55.37:279][214]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.16-10.55.37:279][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.16-10.55.37:281][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.16-10.55.37:286][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.16-10.55.37:336][215]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.01.16-10.55.40:060][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-10.55.40:146][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.16-10.55.40:151][534]LogSavePackage: Moving output files for package: /Game/Maps/TestingLevel
+[2025.01.16-10.55.40:152][534]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/TestingLevel2E125DAD4C60A96AD32277A2BA1CBA5D.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Maps/TestingLevel.umap'
+[2025.01.16-10.55.40:156][534]LogFileHelpers: Saving map 'TestingLevel' took 0.031
+[2025.01.16-10.55.40:161][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.171 ms (total: 1.21 sec)
+[2025.01.16-10.55.40:208][534]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-10.55.40:208][534]LogContentValidation: Enabled validators:
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-10.55.40:208][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-10.55.40:208][534]AssetCheck: /Game/Maps/TestingLevel Validating asset
+[2025.01.16-10.55.52:265][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.16-10.55.53:955][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.16-10.55.53:960][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-10.55.54:072][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BadBotGameMode] ([2] browsable assets)...
+[2025.01.16-10.55.54:072][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BadBotGameMode]
+[2025.01.16-10.55.54:074][104]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/BP_BadBotGameMode
+[2025.01.16-10.55.54:074][104]LogSavePackage: Moving '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Saved/BP_BadBotGameModeB6A3EC5043BE2DFB2F7D37A1F4DEC354.tmp' to '../../../../poligon/Unreal/Unreal Engine 5 Blueprints - The Ultimate Developer Course/bad-robot/BadBot/Content/Blueprints/Game/BP_BadBotGameMode.uasset'
+[2025.01.16-10.55.54:079][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.499 ms (total: 1.33 sec)
+[2025.01.16-10.55.54:205][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-10.55.54:205][104]LogContentValidation: Enabled validators:
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-10.55.54:205][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-10.55.54:205][104]AssetCheck: /Game/Blueprints/Game/BP_BadBotGameMode Validating asset
